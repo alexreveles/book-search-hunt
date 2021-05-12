@@ -1,4 +1,4 @@
-### Book Search Hunt ![Github License](https://img.shields.io/badge/license-MIT-red.svg)
+# Book Search Hunt ![Github License](https://img.shields.io/badge/license-MIT-red.svg)
   
 ## Description
 As an avid reader I want to search for new books to read
